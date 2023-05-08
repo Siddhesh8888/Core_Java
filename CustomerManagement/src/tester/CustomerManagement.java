@@ -23,7 +23,7 @@ public class CustomerManagement {
 			
 			while(!exit)
 			{
-				System.out.println("1.Sign up  2.Sign in  3.Change password  4.Un subscribe customer  5.Display all customers. 6.sort as per E-mail  7.sort as per DOJ");
+				System.out.println("1.Sign up  2.Sign in  3.Change password  4.Un subscribe customer  5.Display all customers. 6.sort as per E-mail  7.sort as per DOJ  8.remove account who's subscribe date greater than 3 year");
 				System.out.println("Enter choice: ");
 				
 				try
@@ -129,6 +129,4 @@ public class CustomerManagement {
 	}
 
 }
-//pranav shingade 123@gmail pranav123 2000 2000-12-12 gold 2023-03-03
-//siddhesh patil siddhesh@gmail sid111 1000 2000-12-12 silver 2023-02-02
-//amey bhosale amey@gmail amey12 2000 1999-03-13 gold 2023-01-01
+
